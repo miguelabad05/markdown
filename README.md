@@ -46,7 +46,9 @@ Parte 1.
 
 Parte 2.
 
+[Documento 2](./markdown2.md)
 
 ![](https://dus6dayednven.cloudfront.net/app/uploads/2022/05/1-DSC00855-Editar_baja.jpg)
 
-[1] 
+
+
